@@ -18,11 +18,12 @@ The default shift key position from a standard keyboard is used and not changed.
 If you prefer anymak:END or EnDe is a matter of preference. Both layouts will feel great, with somewhat different strong sides and weaker sides. But mostly the layouts are very similar (see details below).
 
 ## Layout Overview
-The layout can be used directly on an ISO-keyboard. The finger position is symmetrical for the left and right hand. The right hand is as usual and the left hand like follows: 'qhk' is the pinky-row, '.aä' the row of the ring finger and so on.
+The layout can be used directly on an ISO-keyboard. The finger position is symmetrical for the left and right hand. The right hand is as usual and the left hand like follows: 'qhk' is the pinky-row, '.aä' the row of the ring finger and so on. See also the finger columns on a columnar staggered keyboard below. For both keyboard types the handpositions stay exactly the same and are symmetrical for the left and right hand. 
 
 <img width="1403" height="387" alt="image" src="https://github.com/user-attachments/assets/ec17cf11-e15b-48e9-be66-81fdd286eabe" />
 
-Or on a columnar staggered split keyboard. For both keyboard types the handpositions stay exactly the same and are symmetrical for the left and right hand.
+---
+This is how the layout looks on a a columnar staggered split keyboard:
 
 <img width="1404" height="434" alt="image" src="https://github.com/user-attachments/assets/a148b572-8337-438b-bdc0-ebea814e4f50" />
 
