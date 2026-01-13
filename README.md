@@ -1,7 +1,7 @@
 # EnDe
 A highly ergonomic English/ German keyboard layout for standard ISO keyboards or 3x6 columnar staggered keyboards. It has really good analyzer stats, but gives an even better typing feel :-) Can also be used for other European languages, such as Spanish, French or Dutch.
 
-This layout is an alternative to anymak:END. It is based on the same proven principles. The difference to anymak:END are as follows:
+This layout is an alternative to [anymak:END](https://github.com/rpnfan/Anymak). It is based on the same proven principles. The difference to anymak:END are as follows:
 
 * The default shift key position from a standard keyboard is used and not changed.This allows to use more keys and has two benefits and two disadvantages
 * Due that change some analyzer statistics numbers, such as same-finger-bigrams have been improved.
@@ -11,15 +11,15 @@ This layout is an alternative to anymak:END. It is based on the same proven prin
 
 If you prefer anymak:END or EnDe is a matter of preference. Both layouts will feel great, with somewhat different strong sides and weaker sides. But mostly the layouts are very similar (see details below).
 
-The layout can be used directly on an ISO-keyboard.
+## Layout Overview
+The layout can be used directly on an ISO-keyboard. The finger position is symmetrical for the left and right hand. The right hand is as usual and the left hand like follows: 'qhk' is the pinky-row, '.aä' the row of the ring finger and so on.
 
 <img width="1403" height="387" alt="image" src="https://github.com/user-attachments/assets/ec17cf11-e15b-48e9-be66-81fdd286eabe" />
 
-And as well on a columnar staggered split keyboard. 
+Or on a columnar staggered split keyboard. For both keyboard types the handpositions stay exactly the same and are symmetrical for the left and right hand.
 
 <img width="1404" height="434" alt="image" src="https://github.com/user-attachments/assets/a148b572-8337-438b-bdc0-ebea814e4f50" />
 
-For both keyboard types the handpositions stay exactly the same and are symmetrical for the left and right hand.
 
 ## Statistics
 
