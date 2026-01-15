@@ -1,5 +1,5 @@
 # EnDeu
-A highly ergonomic English/ German keyboard layout for standard ISO keyboards or 3x6 columnar staggered keyboards. It has really good analyzer stats, but gives an even better typing feel :-) Unlike many modern layouts optimized primarily for English, EnDeu maintains consistent ergonomic performance across both English and German. And with simple character swaps enabling excellent typing feel in Dutch, French and Spanish.
+A highly ergonomic English/ German keyboard layout for standard ISO keyboards or 3x6 columnar staggered keyboards. It has really good analyzer stats, but gives an even better typing feel :-) Unlike many modern layouts optimized primarily for English, EnDeu maintains consistent ergonomic performance across both English and German. It is also a really good option to be adapted for other European languages such as Dutch, French and Spanish and probably even more.
 
 This layout is an alternative to [anymak:END](https://github.com/rpnfan/Anymak). It is based on the same proven principles. The difference to anymak:END are as follows:
 
@@ -78,15 +78,17 @@ https://cyanophage.github.io/playground.html?layout=qkouyvdclfjhaei%2Cgtrns%C3%9
 
 
 ## Statistics for different European languages
-As a bonus here the stats for some other languages, where you can see that a slightly adopted EnDeu-layout works also great for Dutch, French or Spanish for example.
+As a bonus here the stats for some other languages, where you can see that a slightly adopted EnDeu-layout works also great for Dutch, French or Spanish for example. The layouts below are not ready-made for these languages. Diacritics need to be added as needed.
 
 ### EnNed - Dutch
 https://cyanophage.github.io/playground.html?layout=q.ouyvdclfjhaei%2Cgtrns%5Ck%2F-%3Bxbpmwz%27%5E&mode=ergo&lan=dutch&thumb=l
 <img width="1813" height="1383" alt="image" src="https://github.com/user-attachments/assets/24ed8ef5-73a6-417e-8ea9-d98fae10e46e" />
+For Dutch and English this [Gallium variant](https://www.reddit.com/r/KeyboardLayouts/comments/1oazi45/comment/nzq8ho1/?context=1) is also very interesting. That and the above layout have somewhat different strengths, but both will work good for English and Dutch. The Gallium variant a bit better for Dutch, but still good for English. And EnNed vice versa a bit better for English, but still good for Dutch.
 
 ### EnFranç - French
 https://cyanophage.github.io/playground.html?layout=q.ouyvdclfjhaei%2Cgtrns%C3%A7k%C3%A9%C3%A8%C3%A0xbpmwz%27%5E&mode=ergo&lan=french&thumb=l
 <img width="1813" height="1383" alt="image" src="https://github.com/user-attachments/assets/6cca8dbb-6e9d-435f-8587-461430d5c37c" />
+If you want a French optimized keyboard layout as the main language and English as a second language, take a look at [Optimot](https://optimot.fr/). For English first and French as a second language EnFranç (with diacritics in place) will be better. In case you would like to create a final version of that layout and would need some help or input you can comment here.
 
 ### EnEspan - Spanish
 https://cyanophage.github.io/playground.html?layout=q.ouyvdclfjhaei%2Cgtrns%2Fk-%5C%C3%B1xbpmwz%27%5E&mode=ergo&lan=spanish&thumb=l
