@@ -81,8 +81,9 @@ https://cyanophage.github.io/playground.html?layout=qkouyvdclfjhaei%2Cgtrns%C3%9
 As a bonus here the stats for some other languages, where you can see that a slightly adopted EnDeu-layout works also great for Dutch, French or Spanish for example. The layouts below are not ready-made for these languages. Diacritics need to be added as needed.
 
 ### EnNed - Dutch
-https://cyanophage.github.io/playground.html?layout=q.ouyvdclfjhaei%2Cgtrns%5Ck%2F-%3Bxbpmwz%27%5E&mode=ergo&lan=dutch&thumb=l
-<img width="1813" height="1383" alt="image" src="https://github.com/user-attachments/assets/24ed8ef5-73a6-417e-8ea9-d98fae10e46e" />
+https://cyanophage.github.io/playground.html?layout=q%3Bouyvdclf%5Chaei%2Cgtrns%2Fkj%27.xbpmwz-%5Eback&mode=ergo&lan=dutch&thumb=l
+<img width="1503" height="1150" alt="image" src="https://github.com/user-attachments/assets/901088be-21f5-4d78-815e-f7d963ec25d3" />
+
 For Dutch and English this [Gallium variant](https://www.reddit.com/r/KeyboardLayouts/comments/1oazi45/comment/nzq8ho1/?context=1) is also very interesting. That and the above layout have somewhat different strengths, but both will work good for English and Dutch. The Gallium variant a bit better for Dutch, but still good for English. And EnNed vice versa a bit better for English, but still good for Dutch.
 
 ### EnFranç - French
