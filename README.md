@@ -92,9 +92,9 @@ Note that the relative high number of same-finger-bigrams are on the strong inde
 For Dutch and English this [Gallium variant](https://www.reddit.com/r/KeyboardLayouts/comments/1oazi45/comment/nzq8ho1/?context=1) is also very interesting. That and the above layout have somewhat different strengths, but both will work good for English and Dutch. The Gallium variant possibly a bit better for Dutch, but still good for English. And EnNed vice versa a bit better for English, but still good for Dutch. 
 
 ### EnFranç - French
-https://cyanophage.github.io/playground.html?layout=q.ouyvdclfjhaei%2Cgtrns%C3%A7k%C3%A9%C3%A8%C3%A0xbpmwz%27%5E&mode=ergo&lan=french&thumb=l
-<img width="1813" height="1383" alt="image" src="https://github.com/user-attachments/assets/6cca8dbb-6e9d-435f-8587-461430d5c37c" />
-If you want a French optimized keyboard layout as the main language and English as a second language, take a look at [Optimot](https://optimot.fr/). For English first and French as a second language EnFranç (with diacritics in place) will be better. In case you would like to create a final version of that layout and would need some help or input you can comment here.
+https://cyanophage.github.io/playground.html?layout=qxouyvdclfjhaei.gtsrn%C3%A0k%C3%A7%C3%A8%C3%A9%2Cbpmwz%27%5E&mode=ergo&lan=french&thumb=l
+<img width="1524" height="1178" alt="image" src="https://github.com/user-attachments/assets/9f91e970-fa05-476a-a7cf-d8f90c60d1c0" />
+If you want a French optimized keyboard layout as the main language and English as a second language, take a look at [Optimot](https://optimot.fr/). Another option can be the layout shown here. It is really good for English and French at the same time. This layout shown here has to be seen as a draft version. Because I do not use French-English myself as the main language combination I have not done the fine-tuning / testing. But after checking and possibly optimizing the diacritics and minor changes I guess this layout could be an excellent option and likely surpasing the already good Optimot layout -- especially for English. In case you would like to create a final version of that layout and would need some help or input you can comment here.
 
 ### EnEspan - Spanish
 https://cyanophage.github.io/playground.html?layout=q.ouyvdclfjhaei%2Cgtrns%2Fk-%5C%C3%B1xbpmwz%27%5E&mode=ergo&lan=spanish&thumb=l
