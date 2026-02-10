@@ -50,7 +50,7 @@ The second unique and rare characteristic for a keyboard layout is that EnDeu is
 
 **Try out and trust your feelings**
 
-Using keyboard layout analyzers to aid in the development or first judgement of a layout is very useful and highly recommended. But be aware that after you have chosen two or three candidates it is best to try out the layouts with a few handfull words. The analyzers will not give you the full picture alone. Using a [website to try out different layouts](https://altalpha.timvink.nl/try-layout.html) is very valuable and will help you to find the layout which fits best to your use case, hand size and keyboard type.
+Using keyboard layout analyzers to aid in the development or first judgement of a layout is very useful and highly recommended. But be aware that after you have chosen two or three candidates it is best to try out the layouts with a few handfull words. The analyzers will not give you the full picture alone. Using a [website to try out different layouts](https://keyboard-layout-try-out.pages.dev/) is very valuable and will help you to find the layout which fits best to your use case, hand size and keyboard type.
 
 ### EnDeu - English
 https://cyanophage.github.io/playground.html?layout=q.ouyvdclf%5Chaei%2Cgtrnsjk%2F-%3Bxbpmwz%27%5E&mode=ergo&lan=english&thumb=l
